@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"nic.lw5","l":"Task"},{"p":"nic.lw5","l":"TaskServlet"}];updateSearchResults();

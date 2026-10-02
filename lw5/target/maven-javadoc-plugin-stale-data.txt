@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'/home/pozhidaev_an/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar:/home/pozhidaev_an/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'lw5 Maven Webapp 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lw5 Maven Webapp 0.0.1-SNAPSHOT API'
+nic.lw5
+/home/pozhidaev_an/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar = 1652339973000
+/home/pozhidaev_an/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar = 1650567686000
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/src/main/java = 1790952545684
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/overview-tree.html = 1790953038302
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/package-search-index.js = 1790953038313
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/tag-search-index.js = 1790953038313
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/help-doc.html = 1790953038333
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/search.html = 1790953038329
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/script.js = 1790953038335
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/copy.svg = 1790953038337
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/type-search-index.js = 1790953038313
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/index-all.html = 1790953038327
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/allpackages-index.html = 1790953038311
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/index.html = 1790953038330
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/module-search-index.js = 1790953038313
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/stylesheet.css = 1790953038335
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/search.js = 1790953038337
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/element-list = 1790953038270
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/member-search-index.js = 1790953038313
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/allclasses-index.html = 1790953038310
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/serialized-form.html = 1790953038289
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/search-page.js = 1790953038338
+/home/pozhidaev_an/Documents/ETU/web/LW5/project/lw5/target/site/apidocs/link.svg = 1790953038337
